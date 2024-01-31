@@ -1,0 +1,6 @@
+PROGRAM HolaMundo;
+BEGIN
+        clrscr;
+        writeln('Hola Mundo!');
+        readkey;
+END.
